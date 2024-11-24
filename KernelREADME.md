@@ -1,3 +1,4 @@
+kernel/main.c is use for implementing kernel implementation of SHA-256
 This file is the first file which runs in xv6 after we start executing it. 
 Inside the file is the main function which acts the first function that is executed.
 What I did was use the same functions as sha256.c file.
